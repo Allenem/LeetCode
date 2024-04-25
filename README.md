@@ -154,5 +154,6 @@
 
 - 2024.04
     - [20240424.2385.感染二叉树需要的总时间](./everyday/202404/20240424.cpp) dfs, bfs
+    - [20240425.2739.总行驶距离](./everyday/202404/20240425.cpp) recursion, simulation
 
 </details>
