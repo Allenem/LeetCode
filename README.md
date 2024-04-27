@@ -156,5 +156,6 @@
     - [20240424.2385.感染二叉树需要的总时间](./everyday/202404/20240424.cpp) dfs, bfs
     - [20240425.2739.总行驶距离](./everyday/202404/20240425.cpp) recursion, simulation
     - 20240426.1146.快照数组 [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
+    - [20240427.2639.查询网格图中每一列的宽度](./everyday/202404/20240427.cpp) simulation
 
 </details>
