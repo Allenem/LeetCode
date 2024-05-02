@@ -162,5 +162,6 @@
     - [20240430.2798.满足目标工作时长的员工数目](./everyday/202404/20240430.cpp) traversal
 - 2024.05
     - [20240501.2462.雇佣 K 位工人的总代价](./everyday/202405/20240501.cpp) priority_queue
+    - [20240502.857.雇佣 K 名工人的最低成本](./everyday/202405/20240502.cpp) priority_queue 大顶堆
 
 </details>
