@@ -164,5 +164,6 @@
     - [20240501.2462.雇佣 K 位工人的总代价](./everyday/202405/20240501.cpp) priority_queue
     - [20240502.857.雇佣 K 名工人的最低成本](./everyday/202405/20240502.cpp) priority_queue 大顶堆
     - [20240503.1491.去掉最低工资和最高工资后的工资平均值](./everyday/202405/20240503.cpp) sort
+    - [20240504.1235.规划兼职工作](./everyday/202405/20240504.cpp) dp, sort, binary_search
 
 </details>
