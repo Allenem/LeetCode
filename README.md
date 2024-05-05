@@ -7,7 +7,7 @@
 目录：
 
 <details>
-<summary>展开/折叠 (View contents)</summary>
+<summary>展开/折叠</summary>
 
 - 基础计算
 - [LCR 001. 两数相除 (easy)](./lcof2/001.divide-two-integers.ipynb)
@@ -147,23 +147,29 @@
 
 ## 2.每日一题 (everyday)
 
-目录：
+### 2024.04
+
+<details>
+<summary>展开/折叠</summary>
+
+- [20240424.2385.感染二叉树需要的总时间 (medium)](./everyday/202404/20240424.cpp) dfs, bfs
+- [20240425.2739.总行驶距离 (easy)](./everyday/202404/20240425.cpp) recursion, simulation
+- 20240426.1146.快照数组 (medium) [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
+- [20240427.2639.查询网格图中每一列的宽度 (easy)](./everyday/202404/20240427.cpp) simulation
+- [20240428.1017.负二进制转换 (medium)](./everyday/202404/20240428.cpp) math
+- [20240429.1329.将矩阵按对角线排序 (medium)](./everyday/202404/20240429.cpp) sort
+- [20240430.2798.满足目标工作时长的员工数目 (easy)](./everyday/202404/20240430.cpp) traversal
+</details>
+
+### 2024.05
 
 <details open>
-<summary>展开/折叠 (View contents)</summary>
+<summary>展开/折叠</summary>
 
-- 2024.04
-    - [20240424.2385.感染二叉树需要的总时间](./everyday/202404/20240424.cpp) dfs, bfs
-    - [20240425.2739.总行驶距离](./everyday/202404/20240425.cpp) recursion, simulation
-    - 20240426.1146.快照数组 [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
-    - [20240427.2639.查询网格图中每一列的宽度](./everyday/202404/20240427.cpp) simulation
-    - [20240428.1017.负二进制转换](./everyday/202404/20240428.cpp) math
-    - [20240429.1329.将矩阵按对角线排序](./everyday/202404/20240429.cpp) sort
-    - [20240430.2798.满足目标工作时长的员工数目](./everyday/202404/20240430.cpp) traversal
-- 2024.05
-    - [20240501.2462.雇佣 K 位工人的总代价](./everyday/202405/20240501.cpp) priority_queue
-    - [20240502.857.雇佣 K 名工人的最低成本](./everyday/202405/20240502.cpp) priority_queue 大顶堆
-    - [20240503.1491.去掉最低工资和最高工资后的工资平均值](./everyday/202405/20240503.cpp) sort
-    - [20240504.1235.规划兼职工作](./everyday/202405/20240504.cpp) dp, sort, binary_search
+- [20240501.2462.雇佣 K 位工人的总代价 (medium)](./everyday/202405/20240501.cpp) priority_queue
+- [20240502.857.雇佣 K 名工人的最低成本 (hard)](./everyday/202405/20240502.cpp) priority_queue 大顶堆
+- [20240503.1491.去掉最低工资和最高工资后的工资平均值 (easy)](./everyday/202405/20240503.cpp) sort
+- [20240504.1235.规划兼职工作 (hard)](./everyday/202405/20240504.cpp) dp, sort, binary_search
+- [20240505.1652.拆炸弹 (easy)](./everyday/202405/20240505.cpp) simulation
 
 </details>
