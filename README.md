@@ -171,5 +171,6 @@
 - [20240503.1491.去掉最低工资和最高工资后的工资平均值 (easy)](./everyday/202405/20240503.cpp) sort
 - [20240504.1235.规划兼职工作 (hard)](./everyday/202405/20240504.cpp) dp, sort, binary_search
 - [20240505.1652.拆炸弹 (easy)](./everyday/202405/20240505.cpp) simulation
+- [20240506.741.摘樱桃 (hard)](./everyday/202405/20240506.cpp) 3d dp, 2 people, remove duplicates
 
 </details>
