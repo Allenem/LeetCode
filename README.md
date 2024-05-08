@@ -173,5 +173,6 @@
 - [20240505.1652.拆炸弹 (easy)](./everyday/202405/20240505.cpp) simulation
 - [20240506.741.摘樱桃 (hard)](./everyday/202405/20240506.cpp) 3d dp, 2 people, remove duplicates
 - [20240507.1463.摘樱桃II(hard)](./everyday/202405/20240507.cpp) 3d dp, 2 people, remove duplicates, simulation, dfs
+- [20240508.2079.给植物浇水(medium)](./everyday/202405/20240508.cpp) simulation
 
 </details>
