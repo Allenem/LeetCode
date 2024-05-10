@@ -175,5 +175,6 @@
 - [20240507.1463.摘樱桃II(hard)](./everyday/202405/20240507.cpp) 3d dp, 2 people, remove duplicates, simulation, dfs
 - [20240508.2079.给植物浇水(medium)](./everyday/202405/20240508.cpp) simulation
 - [20240509.2105.给植物浇水II(medium)](./everyday/202405/20240509.cpp) simulation
+- [20240510.2960.统计已测试设备](./everyday/202405/20240510.cpp) simulation
 
 </details>
