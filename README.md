@@ -176,5 +176,6 @@
 - [20240508.2079.给植物浇水(medium)](./everyday/202405/20240508.cpp) simulation
 - [20240509.2105.给植物浇水II(medium)](./everyday/202405/20240509.cpp) simulation
 - [20240510.2960.统计已测试设备](./everyday/202405/20240510.cpp) simulation
+- [20240511.2391.收集垃圾的最少总时间](./everyday/202405/20240511.cpp) iteration
 
 </details>
