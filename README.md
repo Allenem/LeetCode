@@ -178,5 +178,6 @@
 - [20240510.2960.统计已测试设备 (easy)](./everyday/202405/20240510.cpp) simulation
 - [20240511.2391.收集垃圾的最少总时间 (medium)](./everyday/202405/20240511.cpp) iteration
 - [20240512.1553.吃掉 N 个橘子的最少天数 (hard)](./everyday/202405/20240512.cpp) recursion, memorization
+- [20240513.994.腐烂的橘子 (medium)](./everyday/202405/20240513.cpp) bfs
 
 </details>
