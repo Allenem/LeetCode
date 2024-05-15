@@ -180,5 +180,6 @@
 - [20240512.1553.吃掉 N 个橘子的最少天数 (hard)](./everyday/202405/20240512.cpp) recursion, memorization
 - [20240513.994.腐烂的橘子 (medium)](./everyday/202405/20240513.cpp) bfs
 - [20240514.2244.完成所有任务需要的最少轮数 (medium)](./everyday/202405/20240514.cpp) classified discussion
+- [20240515.2589.完成所有任务的最少时间 (hard)](./everyday/202405/20240515.cpp) sort, traverse
 
 </details>
