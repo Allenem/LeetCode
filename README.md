@@ -182,5 +182,6 @@
 - [20240514.2244.完成所有任务需要的最少轮数 (medium)](./everyday/202405/20240514.cpp) classified discussion
 - [20240515.2589.完成所有任务的最少时间 (hard)](./everyday/202405/20240515.cpp) sort, traverse
 - [20240516.1953.你可以工作的最大周数 (medium)](./everyday/202405/20240516.cpp) math, 鸽巢原理
+- [20240517.826.安排工作以达到最大收益 (medium)](./everyday/202405/20240517.cpp) sort, 贪心
 
 </details>
