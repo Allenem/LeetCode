@@ -189,5 +189,6 @@
 - [20240521.2769.找出最大的可达成数字 (easy)](./everyday/202405/20240521.cpp) 简单数学
 - [20240522.2225.找出输掉零场或一场比赛的玩家 (medium)](./everyday/202405/20240522.cpp) map
 - [20240523.2831.找出最长等值子数组 (medium)](./everyday/202405/202405223.cpp) map
+- [20240524.1673.找出最具竞争力的子序列 (medium)](./everyday/202405/20240524.cpp) monotone stack (small to large)
 
 </details>
