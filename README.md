@@ -152,6 +152,29 @@
 <details>
 <summary>展开/折叠</summary>
 
+- [20240401.2810. 故障键盘 (easy)](./everyday/202404/20240401.cpp) simulation
+- [20240402.894. 所有可能的真二叉树 (medium)](./everyday/202404/20240402.cpp) recursion
+- [20240403.1379. 找出克隆二叉树中的相同节点 (easy)](./everyday/202404/20240403.cpp) Conditional (ternary) operator
+- [20240404.2192. 有向无环图中一个节点的所有祖先 (medium)](./everyday/202404/20240404.cpp) dfs
+- [20240405.1026. 节点与其祖先之间的最大差值 (medium)](./everyday/202404/20240405.cpp) bfs
+- [20240406.1483. 树节点的第 K 个祖先 (hard)](./everyday/202404/20240406.cpp) 存储
+- [20240407.1600. 王位继承顺序 (medium)](./everyday/202404/20240407.cpp) 多叉树dfs，注意传参用引用
+- [20240408.2009. 使数组连续的最少操作数 (hard)](./everyday/202404/20240408.cpp) n-(r-l+1)
+- [20240409.2529. 正整数和负整数的最大计数 (easy)](./everyday/202404/20240409.cpp) traversal
+- [20240410.1702. 修改后的最大二进制字符串 (medium)](./everyday/202404/20240410.cpp) 智力题，10→01表示1全部右移，00→10最后一位变0前面全1
+- [20240411.1766. 互质树 (hard)](./everyday/202404/20240411.cpp) 妙啊！50范围内找互质数
+- [20240412.2923. 找到冠军 I (easy)](./everyday/202404/20240412.cpp) 入度0
+- [20240413.2924. 找到冠军 II (medium)](./everyday/202404/20240413.cpp) 入度为0看看是不是只有一个
+- [20240414.705. 设计哈希集合 (easy)](./everyday/202404/20240414.cpp)
+- [20240415.706. 设计哈希映射 (easy)](./everyday/202404/20240415.cpp)
+- [20240416.924. 尽量减少恶意软件的传播 (hard)](./everyday/202404/20240416.cpp) dfs, union_find
+- [20240417.928. 尽量减少恶意软件的传播 II (hard)](./everyday/202404/20240417.cpp) dfs, union_find
+- [20240418.2007. 从双倍数组中还原原数组 (medium)](./everyday/202404/20240418.cpp)
+- [20240419.1883. 准时抵达会议现场的最小跳过休息次数 (hard)](./everyday/202404/20240419.cpp) 2d dp
+- [20240420.39. 组合总和 (medium)](./everyday/202404/20240420.cpp) backtracking
+- [20240421.216. 组合总和 III (medium)](./everyday/202404/20240421.cpp) backtracking
+- [20240422.377. 组合总和 IV (medium)](./everyday/202404/20240422.cpp) dp
+- [20240423.1052. 爱生气的书店老板 (medium)](./everyday/202404/20240423.cpp) sliding window
 - [20240424.2385.感染二叉树需要的总时间 (medium)](./everyday/202404/20240424.cpp) dfs, bfs
 - [20240425.2739.总行驶距离 (easy)](./everyday/202404/20240425.cpp) recursion, simulation
 - 20240426.1146.快照数组 (medium) [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
