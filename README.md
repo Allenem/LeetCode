@@ -190,5 +190,6 @@
 - [20240522.2225.找出输掉零场或一场比赛的玩家 (medium)](./everyday/202405/20240522.cpp) map
 - [20240523.2831.找出最长等值子数组 (medium)](./everyday/202405/202405223.cpp) map
 - [20240524.1673.找出最具竞争力的子序列 (medium)](./everyday/202405/20240524.cpp) monotone stack (small to large)
+- [20240525.2903.找出满足差值条件的下标 I (easy)](./everyday/202405/20240525.cpp) 前缀，依次遍历
 
 </details>
