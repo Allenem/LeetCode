@@ -175,13 +175,13 @@
 - [20240421.216. 组合总和 III (medium)](./everyday/202404/20240421.cpp) backtracking
 - [20240422.377. 组合总和 IV (medium)](./everyday/202404/20240422.cpp) dp
 - [20240423.1052. 爱生气的书店老板 (medium)](./everyday/202404/20240423.cpp) sliding window
-- [20240424.2385.感染二叉树需要的总时间 (medium)](./everyday/202404/20240424.cpp) dfs, bfs
-- [20240425.2739.总行驶距离 (easy)](./everyday/202404/20240425.cpp) recursion, simulation
-- 20240426.1146.快照数组 (medium) [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
-- [20240427.2639.查询网格图中每一列的宽度 (easy)](./everyday/202404/20240427.cpp) simulation
-- [20240428.1017.负二进制转换 (medium)](./everyday/202404/20240428.cpp) math
-- [20240429.1329.将矩阵按对角线排序 (medium)](./everyday/202404/20240429.cpp) sort
-- [20240430.2798.满足目标工作时长的员工数目 (easy)](./everyday/202404/20240430.cpp) traversal
+- [20240424.2385. 感染二叉树需要的总时间 (medium)](./everyday/202404/20240424.cpp) dfs, bfs
+- [20240425.2739. 总行驶距离 (easy)](./everyday/202404/20240425.cpp) recursion, simulation
+- 20240426.1146. 快照数组 (medium) [主程序](./everyday/202404/20240426.cpp) [读取数据程序](./everyday/202404/20240426getdata.cpp)
+- [20240427.2639. 查询网格图中每一列的宽度 (easy)](./everyday/202404/20240427.cpp) simulation
+- [20240428.1017. 负二进制转换 (medium)](./everyday/202404/20240428.cpp) math
+- [20240429.1329. 将矩阵按对角线排序 (medium)](./everyday/202404/20240429.cpp) sort
+- [20240430.2798. 满足目标工作时长的员工数目 (easy)](./everyday/202404/20240430.cpp) traversal
 </details>
 
 ### 2024.05
@@ -189,30 +189,31 @@
 <details open>
 <summary>展开/折叠</summary>
 
-- [20240501.2462.雇佣 K 位工人的总代价 (medium)](./everyday/202405/20240501.cpp) priority_queue
-- [20240502.857.雇佣 K 名工人的最低成本 (hard)](./everyday/202405/20240502.cpp) priority_queue 大顶堆
-- [20240503.1491.去掉最低工资和最高工资后的工资平均值 (easy)](./everyday/202405/20240503.cpp) sort
-- [20240504.1235.规划兼职工作 (hard)](./everyday/202405/20240504.cpp) dp, sort, binary_search
-- [20240505.1652.拆炸弹 (easy)](./everyday/202405/20240505.cpp) simulation
-- [20240506.741.摘樱桃 (hard)](./everyday/202405/20240506.cpp) 3d dp, 2 people, remove duplicates
-- [20240507.1463.摘樱桃II (hard)](./everyday/202405/20240507.cpp) 3d dp, 2 people, remove duplicates, simulation, dfs
-- [20240508.2079.给植物浇水 (medium)](./everyday/202405/20240508.cpp) simulation
-- [20240509.2105.给植物浇水II (medium)](./everyday/202405/20240509.cpp) simulation
-- [20240510.2960.统计已测试设备 (easy)](./everyday/202405/20240510.cpp) simulation
-- [20240511.2391.收集垃圾的最少总时间 (medium)](./everyday/202405/20240511.cpp) iteration
-- [20240512.1553.吃掉 N 个橘子的最少天数 (hard)](./everyday/202405/20240512.cpp) recursion, memorization
-- [20240513.994.腐烂的橘子 (medium)](./everyday/202405/20240513.cpp) bfs
-- [20240514.2244.完成所有任务需要的最少轮数 (medium)](./everyday/202405/20240514.cpp) classified discussion
-- [20240515.2589.完成所有任务的最少时间 (hard)](./everyday/202405/20240515.cpp) sort, traverse
-- [20240516.1953.你可以工作的最大周数 (medium)](./everyday/202405/20240516.cpp) math, 鸽巢原理
-- [20240517.826.安排工作以达到最大收益 (medium)](./everyday/202405/20240517.cpp) sort, 贪心
-- [20240518.2644.找出可整除性得分最大的整数 (easy)](./everyday/202405/20240518.cpp) 暴力枚举，排序优化，数学边界优化
-- [20240519.1535.找出数组游戏的赢家 (medium)](./everyday/202405/20240519.cpp) 一次遍历即可
-- [20240520.1542.找出最长的超赞子字符串 (hard)](./everyday/202405/20240520.cpp) 位运算，前缀和，状态压缩，哈希表，异或
-- [20240521.2769.找出最大的可达成数字 (easy)](./everyday/202405/20240521.cpp) 简单数学
-- [20240522.2225.找出输掉零场或一场比赛的玩家 (medium)](./everyday/202405/20240522.cpp) map
-- [20240523.2831.找出最长等值子数组 (medium)](./everyday/202405/202405223.cpp) map
-- [20240524.1673.找出最具竞争力的子序列 (medium)](./everyday/202405/20240524.cpp) monotone stack (small to large)
-- [20240525.2903.找出满足差值条件的下标 I (easy)](./everyday/202405/20240525.cpp) 前缀，依次遍历
+- [20240501.2462. 雇佣 K 位工人的总代价 (medium)](./everyday/202405/20240501.cpp) priority_queue
+- [20240502.857. 雇佣 K 名工人的最低成本 (hard)](./everyday/202405/20240502.cpp) priority_queue 大顶堆
+- [20240503.1491. 去掉最低工资和最高工资后的工资平均值 (easy)](./everyday/202405/20240503.cpp) sort
+- [20240504.1235. 规划兼职工作 (hard)](./everyday/202405/20240504.cpp) dp, sort, binary_search
+- [20240505.1652. 拆炸弹 (easy)](./everyday/202405/20240505.cpp) simulation
+- [20240506.741. 摘樱桃 (hard)](./everyday/202405/20240506.cpp) 3d dp, 2 people, remove duplicates
+- [20240507.1463. 摘樱桃II (hard)](./everyday/202405/20240507.cpp) 3d dp, 2 people, remove duplicates, simulation, dfs
+- [20240508.2079. 给植物浇水 (medium)](./everyday/202405/20240508.cpp) simulation
+- [20240509.2105. 给植物浇水II (medium)](./everyday/202405/20240509.cpp) simulation
+- [20240510.2960. 统计已测试设备 (easy)](./everyday/202405/20240510.cpp) simulation
+- [20240511.2391. 收集垃圾的最少总时间 (medium)](./everyday/202405/20240511.cpp) iteration
+- [20240512.1553. 吃掉 N 个橘子的最少天数 (hard)](./everyday/202405/20240512.cpp) recursion, memorization
+- [20240513.994. 腐烂的橘子 (medium)](./everyday/202405/20240513.cpp) bfs
+- [20240514.2244. 完成所有任务需要的最少轮数 (medium)](./everyday/202405/20240514.cpp) classified discussion
+- [20240515.2589. 完成所有任务的最少时间 (hard)](./everyday/202405/20240515.cpp) sort, traverse
+- [20240516.1953. 你可以工作的最大周数 (medium)](./everyday/202405/20240516.cpp) math, 鸽巢原理
+- [20240517.826. 安排工作以达到最大收益 (medium)](./everyday/202405/20240517.cpp) sort, 贪心
+- [20240518.2644. 找出可整除性得分最大的整数 (easy)](./everyday/202405/20240518.cpp) 暴力枚举，排序优化，数学边界优化
+- [20240519.1535. 找出数组游戏的赢家 (medium)](./everyday/202405/20240519.cpp) 一次遍历即可
+- [20240520.1542. 找出最长的超赞子字符串 (hard)](./everyday/202405/20240520.cpp) 位运算，前缀和，状态压缩，哈希表，异或
+- [20240521.2769. 找出最大的可达成数字 (easy)](./everyday/202405/20240521.cpp) 简单数学
+- [20240522.2225. 找出输掉零场或一场比赛的玩家 (medium)](./everyday/202405/20240522.cpp) map
+- [20240523.2831. 找出最长等值子数组 (medium)](./everyday/202405/202405223.cpp) map
+- [20240524.1673. 找出最具竞争力的子序列 (medium)](./everyday/202405/20240524.cpp) monotone stack (small to large)
+- [20240525.2903. 找出满足差值条件的下标 I (easy)](./everyday/202405/20240525.cpp) 前缀，依次遍历
+- [20240526.1738. 找出第 K 大的异或坐标值 (medium)](./everyday/202405/20240526.cpp) 二位前缀和，快速选择算法
 
 </details>
