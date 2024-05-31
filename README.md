@@ -301,7 +301,7 @@
 
 ### 2024.05
 
-<details open>
+<details>
 <summary>展开/折叠</summary>
 
 - [20240501.2462. 雇佣 K 位工人的总代价 (medium)](./everyday/202405/20240501.cpp) priority_queue
@@ -334,5 +334,13 @@
 - [20240528.2951. 找出峰值 (easy)](./everyday/202405/20240528.cpp) 简单遍历
 - [20240529.2981. 找出出现至少三次的最长特殊子字符串 I (medium)](./everyday/202405/20240529.cpp) 降序排序
 - [20240530.2982. 找出出现至少三次的最长特殊子字符串 II (medium)](./everyday/202405/20240530.cpp) 降序排序
+- [20240531.2965. 找出缺失和重复的数字 (easy)](./everyday/202405/20240531.cpp) 简单遍历
+
+</details>
+
+### 2024.06
+
+<details open>
+<summary>展开/折叠</summary>
 
 </details>
