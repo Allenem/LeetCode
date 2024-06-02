@@ -344,5 +344,6 @@
 <summary>展开/折叠</summary>
 
 - [20240601.2928. 给小朋友们分糖果 I (easy)](./everyday/202406/20240601.cpp) 简单2次遍历
+- [20240602.575. 分糖果 (easy)](./everyday/202406/20240602.cpp) set
 
 </details>
