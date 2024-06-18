@@ -360,5 +360,6 @@
 - [20240615.2779. 数组的最大美丽值 (medium)](./everyday/202406/20240615.cpp)  排序，滑窗
 - [20240616.521. 最长特殊序列 Ⅰ (easy)](./everyday/202406/20240616.cpp)  直接比较
 - [20240617.522. 最长特殊序列 II (medium)](./everyday/202406/20240617.cpp)  排序，枚举
+- [20240618.2288. 价格减免 (medium)](./everyday/202406/20240618.cpp) 简单模拟(一些新用法符号：fixed，setprecision，all_of，::isdigit)
 
 </details>
