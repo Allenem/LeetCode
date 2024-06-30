@@ -340,7 +340,7 @@
 
 ### 2024.06
 
-<details open>
+<details>
 <summary>展开/折叠</summary>
 
 - [20240601.2928. 给小朋友们分糖果 I (easy)](./everyday/202406/20240601.cpp) 简单2次遍历
@@ -381,6 +381,6 @@
 <details open>
 <summary>展开/折叠</summary>
 
-- [20240701.? (?)](./everyday/202406/20240701.cpp) ?
+- [20240701.2065. 最大化一张图中的路径价值 (hard)](./everyday/202407/20240701.cpp) 图，dfs
 
 </details>
