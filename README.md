@@ -1,6 +1,6 @@
 # Leetcode Recording
 
-## 1.剑指offer专项突破版 (lcof2)
+## 1.剑指offer专项突破版 (lcof2) (jupyter notebook)
 
 链接：https://leetcode.cn/problem-list/TP9kvfRn
 
@@ -145,7 +145,7 @@
 
 </details>
 
-## 2.每日一题 (everyday)
+## 2.每日一题 (everyday) (cpp)
 
 ### 2024.01
 
@@ -382,5 +382,6 @@
 <summary>展开/折叠</summary>
 
 - [20240701.2065. 最大化一张图中的路径价值 (hard)](./everyday/202407/20240701.cpp) 图，dfs
+- [20240702.3115. 质数的最大距离 (medium)](./everyday/202407/20240702.cpp) 简单遍历，质数判断
 
 </details>
