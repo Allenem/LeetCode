@@ -420,4 +420,6 @@
 <details open>
 <summary>展开/折叠</summary>
 
+- [20240801.LCP 40. 心算挑战 (easy)](./everyday/202408/20240801.cpp) 排序，暴力，贪心，回溯，异或，位运算
+
 </details>
