@@ -417,7 +417,7 @@
 
 ### 2024.08
 
-<details open>
+<details>
 <summary>展开/折叠</summary>
 
 - [20240801.LCP 40. 心算挑战 (easy)](./everyday/202408/20240801.cpp) 排序，暴力，贪心，回溯，异或，位运算
@@ -451,5 +451,14 @@
 - [20240829.3142. 判断矩阵是否满足条件 (easy)](./everyday/202408/20240829.cpp) 简单遍历
 - [20240830.3141. 判断矩阵是否满足条件 II (medium)](./everyday/202408/20240830.cpp) 组合，前缀和
 - [20240831.3127. 构造相同颜色的正方形 (easy)](./everyday/202408/20240831.cpp) 简单遍历，ranges::count
+
+</details>
+
+### 2024.09
+
+<details open>
+<summary>展开/折叠</summary>
+
+- [20240901.1450. 在既定时间做作业的学生人数 (easy)](./everyday/202409/20240901.cpp) 简单遍历
 
 </details>
