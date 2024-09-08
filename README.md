@@ -466,5 +466,6 @@
 - [20240905.3174. 清除数字 (easy)](./everyday/202409/20240905.cpp) 双向队列
 - [20240906.3176. 求出最长好子序列 I (medium)](./everyday/202409/20240906.cpp) dp
 - [20240907.3177. 求出最长好子序列 II (hard)](./everyday/202409/20240907.cpp) dp+hash+vector优化
+- [20240908.977. 有序数组的平方 (easy)](./everyday/202409/20240908.cpp) dp+hash+vector优化
 
 </details>
