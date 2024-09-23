@@ -33,7 +33,7 @@ using namespace std;
 class Solution {
 public:
     int maxScoreSightseeingPair(vector<int>& values) {
-        int n=values.size(),dp1,dp2;
+        int n=values.size(),dp1=0,dp2=0;
         for(int i=1;i<n;i++){
             dp1=max(dp1,values[i-1]+i-1);
             dp2=max(dp2,dp1+values[i]-i);
@@ -44,10 +44,10 @@ public:
 int main(){
     Solution s;
     vector<int> values={8,1,5,2,6};
-    cout<<s.maxScoreSightseeingPair(values);
+    cout<<s.maxScoreSightseeingPair(values)<<endl;
 
     values = {1,2};
-    cout<<s.maxScoreSightseeingPair(values);
-    
+    cout<<s.maxScoreSightseeingPair(values)<<endl;
+
     return 0;
 }
