@@ -498,5 +498,6 @@
 <summary>展开/折叠</summary>
 
 - [20241001.983. 最低票价 (medium)](./everyday/202410/20241001.cpp) dp
+- [20241002.1870. 准时到达的列车最小时速 (medium)](./everyday/202410/20241002.cpp) 二分查找
 
 </details>
