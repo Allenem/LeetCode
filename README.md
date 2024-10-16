@@ -513,12 +513,15 @@
 - [20241014.887. 鸡蛋掉落 (hard)](./everyday/202410/20241014.cpp) dp, 递推，数学，递归
 - [20241015.3200. 三角形的最大高度 (easy)](./everyday/202410/20241015.cpp) hash
 - [20241016.3194. 最小元素和最大元素的最小平均值 (easy)](./everyday/202410/20241016.cpp) 排序，遍历
+- [20241017.3193. 统计逆序对的数目 (hard)](./everyday/202410/20241017.cpp) 记忆化搜索，dp
 
 </details>
 
-## Machine Learning Code Challenges
+## 3.Machine Learning Code Challenges (meachine_learning) (jupyter notebook)
 
 https://www.deep-ml.com/
+
+today: 2024.10.16 number of challenges: 59
 
 <details open>
 <summary>展开/折叠</summary>
