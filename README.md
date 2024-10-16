@@ -515,3 +515,16 @@
 - [20241016.3194. 最小元素和最大元素的最小平均值 (easy)](./everyday/202410/20241016.cpp) 排序，遍历
 
 </details>
+
+## Machine Learning Code Challenges
+
+https://www.deep-ml.com/
+
+<details open>
+<summary>展开/折叠</summary>
+
+- [1. Matrix times Vector (easy)](./machine_learning/1matrix_times_vector.ipynb)
+- ...
+- [19. Principal Component Analysis (PCA) Implementation (medium)](./machine_learning/19pca.ipynb)
+
+</details>
