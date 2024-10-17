@@ -526,8 +526,9 @@ today: 2024.10.16 number of challenges: 59
 <details open>
 <summary>展开/折叠</summary>
 
-- [1. Matrix times Vector (easy)](./machine_learning/1matrix_times_vector.ipynb)
+- [1. Matrix times Vector (easy) (linear algebra)](./machine_learning/1matrix_times_vector.ipynb)
 - ...
-- [19. Principal Component Analysis (PCA) Implementation (medium)](./machine_learning/19pca.ipynb)
+- [19. Principal Component Analysis (PCA) Implementation (medium) (machine learning)](./machine_learning/19pca.ipynb)
+- [23. Softmax Activation Function Implementation (easy) (deep learning)](./machine_learning/23softmax_activation_function.ipynb)
 
 </details>
