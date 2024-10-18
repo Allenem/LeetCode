@@ -514,6 +514,7 @@
 - [20241015.3200. 三角形的最大高度 (easy)](./everyday/202410/20241015.cpp) hash
 - [20241016.3194. 最小元素和最大元素的最小平均值 (easy)](./everyday/202410/20241016.cpp) 排序，遍历
 - [20241017.3193. 统计逆序对的数目 (hard)](./everyday/202410/20241017.cpp) 记忆化搜索，dp
+- [20241018.3191. 使二进制数组全部等于 1 的最少操作次数 I (medium)](./everyday/202410/20241018.cpp) 位运算，贪心
 
 </details>
 
@@ -526,9 +527,10 @@ today: 2024.10.16 number of challenges: 59
 <details open>
 <summary>展开/折叠</summary>
 
-- [1. Matrix times Vector (easy) (linear algebra)](./machine_learning/1matrix_times_vector.ipynb)
+- [1	Matrix times Vector | linear algebra | Easy](./machine_learning/1matrix_times_vector.ipynb)
 - ...
-- [19. Principal Component Analysis (PCA) Implementation (medium) (machine learning)](./machine_learning/19pca.ipynb)
-- [23. Softmax Activation Function Implementation (easy) (deep learning)](./machine_learning/23softmax_activation_function.ipynb)
+- [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
+- [23	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/23softmax_activation_function.ipynb)
+- [33	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/33generate_random_subsets_of_a_dataset.ipynb)
 
 </details>
