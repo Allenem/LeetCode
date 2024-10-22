@@ -518,6 +518,7 @@
 - [20241019.3192. 使二进制数组全部等于 1 的最少操作次数 II (medium)](./everyday/202410/20241019.cpp) 位运算，贪心
 - [20241020.908. 最小差值 I (easy)](./everyday/202410/20241020.cpp) 数学，贪心
 - [20241021.909. 最小差值 II (medium)](./everyday/202410/20241021.cpp) 贪心，数学，遍历，排序，分类讨论
+- [20241022.3184. 构成整天的下标对数目 I (easy)](./everyday/202410/20241022.cpp) 哈希表，取余，遍历
 
 </details>
 
@@ -537,5 +538,6 @@ today: 2024.10.16 number of challenges: 59
 - [24	Single Neuron | deep learning | Easy](./machine_learning/24single_neuron.ipynb)
 - [33	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/33generate_random_subsets_of_a_dataset.ipynb)
 - [38	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/38implement_adaboost_fit_method.ipynb)
+- [55	2D Translation Matrix | linear algebra | Medium](./machine_learning/552d_translation_matrix.ipynb)
 
 </details>
