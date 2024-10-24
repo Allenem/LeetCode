@@ -534,6 +534,7 @@ today: 2024.10.16 number of challenges: 59
 <summary>展开/折叠</summary>
 
 - [1	Matrix times Vector | linear algebra | Easy](./machine_learning/1matrix_times_vector.ipynb)
+- [2	Transpose of a Matrix | linear algebra | Easy](./machine_learning/2transpose_of_a_matrix.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
 - [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
 - [23	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/23softmax_activation_function.ipynb)
