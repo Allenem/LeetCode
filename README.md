@@ -523,6 +523,7 @@
 - [20241024.3175. 找到连续赢 K 场比赛的第一位玩家 (medium)](./everyday/202410/20241024.cpp) 一次遍历，脑静急转弯
 - [20241025.3180. 执行操作可获得的最大总奖励 I (medium)](./everyday/202410/20241025.cpp) dp
 - [20241026.3181. 执行操作可获得的最大总奖励 II (hard)](./everyday/202410/20241026.cpp) dp, bitset
+- [20241027.3182. 找到最大的异或和 (easy)](./everyday/202410/20241027.cpp) 并查集
 
 </details>
 
@@ -539,7 +540,9 @@ today: 2024.10.16 number of challenges: 59
 - [2	Transpose of a Matrix | linear algebra | Easy](./machine_learning/2transpose_of_a_matrix.ipynb)
 - [3	Reshape Matrix | linear algebra | Easy](./machine_learning/3reshape_matrix.ipynb)
 - [4	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/4calculate_mean_by_row_or_column.ipynb)
+- [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
+- [18	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/18cross_validation_data_split.ipynb)
 - [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
 - [23	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/23softmax_activation_function.ipynb)
 - [24	Single Neuron | deep learning | Easy](./machine_learning/24single_neuron.ipynb)
