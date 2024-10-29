@@ -525,6 +525,7 @@
 - [20241026.3181. 执行操作可获得的最大总奖励 II (hard)](./everyday/202410/20241026.cpp) dp, bitset
 - [20241027.684. 冗余连接 (medium)](./everyday/202410/20241027.cpp) 并查集
 - [20241028.685. 冗余连接 II (hard)](./everyday/202410/20241028.cpp) 并查集
+- [20241029.3211. 生成不含相邻零的二进制字符串 (medium)](./everyday/202410/20241029.cpp) 回溯，dfs
 
 </details>
 
@@ -549,6 +550,7 @@ today: 2024.10.16 number of challenges: 59
 - [24	Single Neuron | deep learning | Easy](./machine_learning/24single_neuron.ipynb)
 - [33	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/33generate_random_subsets_of_a_dataset.ipynb)
 - [38	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/38implement_adaboost_fit_method.ipynb)
+- [45	Linear Kernel | machine learning | Easy](./machine_learning/45linear_kernel.ipynb)
 - [52	Recall | machine learning | Easy](./machine_learning/52recall.ipynb)
 - [55	2D Translation Matrix | linear algebra | Medium](./machine_learning/552d_translation_matrix.ipynb)
 
