@@ -526,6 +526,7 @@
 - [20241027.684. 冗余连接 (medium)](./everyday/202410/20241027.cpp) 并查集
 - [20241028.685. 冗余连接 II (hard)](./everyday/202410/20241028.cpp) 并查集
 - [20241029.3211. 生成不含相邻零的二进制字符串 (medium)](./everyday/202410/20241029.cpp) 回溯，dfs
+- [20241030.3216. 交换后字典序最小的字符串 (easy)](./everyday/202410/20241030.cpp) 回溯，dfs
 
 </details>
 
@@ -542,6 +543,7 @@ today: 2024.10.16 number of challenges: 59
 - [2	Transpose of a Matrix | linear algebra | Easy](./machine_learning/2transpose_of_a_matrix.ipynb)
 - [3	Reshape Matrix | linear algebra | Easy](./machine_learning/3reshape_matrix.ipynb)
 - [4	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/4calculate_mean_by_row_or_column.ipynb)
+- [5	Scalar Multiplication of a Matrix | linear algebra | Easy](./machine_learning/5scalar_multiplication_of_a_matrix.ipynb)
 - [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
 - [18	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/18cross_validation_data_split.ipynb)
