@@ -536,7 +536,7 @@
 <details open>
 <summary>展开/折叠</summary>
 
-- []
+- [20241101.3259. 超级饮料的最大强化能量 (medium)](./everyday/202411/20241101.cpp) dp
 
 </details>
 
@@ -554,11 +554,13 @@ today: 2024.10.16 number of challenges: 59
 - [3	Reshape Matrix | linear algebra | Easy](./machine_learning/3reshape_matrix.ipynb)
 - [4	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/4calculate_mean_by_row_or_column.ipynb)
 - [5	Scalar Multiplication of a Matrix | linear algebra | Easy](./machine_learning/5scalar_multiplication_of_a_matrix.ipynb)
+- [6	Calculate Eigenvalues of a Matrix | linear algebra | Medium](./machine_learning/6calculate_eigenvalues_of_a_matrix.ipynb)
 - [8	Calculate 2x2 Matrix Inverse | linear algebra | Medium](./machine_learning/8calculate_2x2_matrix_inverse.ipynb)
 - [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
 - [18	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/18cross_validation_data_split.ipynb)
 - [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
+- [21	Pegasos Kernel SVM Implementation | machine learning | Hard](./machine_learning/21pegasos_kernel_svm.ipynb)
 - [23	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/23softmax_activation_function.ipynb)
 - [24	Single Neuron | deep learning | Easy](./machine_learning/24single_neuron.ipynb)
 - [33	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/33generate_random_subsets_of_a_dataset.ipynb)
