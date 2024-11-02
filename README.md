@@ -537,6 +537,7 @@
 <summary>展开/折叠</summary>
 
 - [20241101.3259. 超级饮料的最大强化能量 (medium)](./everyday/202411/20241101.cpp) dp
+- [20241102.3226. 使两个整数相等的位更改次数 (easy)](./everyday/202411/20241102.cpp) 位运算，简单遍历
 
 </details>
 
@@ -555,6 +556,7 @@ today: 2024.10.16 number of challenges: 59
 - [4	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/4calculate_mean_by_row_or_column.ipynb)
 - [5	Scalar Multiplication of a Matrix | linear algebra | Easy](./machine_learning/5scalar_multiplication_of_a_matrix.ipynb)
 - [6	Calculate Eigenvalues of a Matrix | linear algebra | Medium](./machine_learning/6calculate_eigenvalues_of_a_matrix.ipynb)
+- [7	Matrix Transformation | linear algebra | Medium](./machine_learning/7matrix_transformation.ipynb)
 - [8	Calculate 2x2 Matrix Inverse | linear algebra | Medium](./machine_learning/8calculate_2x2_matrix_inverse.ipynb)
 - [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
