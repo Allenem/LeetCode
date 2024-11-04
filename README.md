@@ -539,6 +539,7 @@
 - [20241101.3259. 超级饮料的最大强化能量 (medium)](./everyday/202411/20241101.cpp) dp
 - [20241102.3226. 使两个整数相等的位更改次数 (easy)](./everyday/202411/20241102.cpp) 位运算，简单遍历
 - [20241103.638. 大礼包 (medium)](./everyday/202411/20241103.cpp) 回溯，dfs，记忆化搜索
+- [20241104.633. 平方数之和 (medium)](./everyday/202411/20241104.cpp) 枚举，双指针
 
 </details>
 
@@ -546,7 +547,8 @@
 
 https://www.deep-ml.com/
 
-today: 2024.10.16 number of challenges: 59
+2024.10.16 number of challenges: 59
+2024.11.04 number of challenges: 66
 
 <details open>
 <summary>展开/折叠</summary>
@@ -560,7 +562,9 @@ today: 2024.10.16 number of challenges: 59
 - [7	Matrix Transformation | linear algebra | Medium](./machine_learning/7matrix_transformation.ipynb)
 - [8	Calculate 2x2 Matrix Inverse | linear algebra | Medium](./machine_learning/8calculate_2x2_matrix_inverse.ipynb)
 - [9	Matrix times Matrix | linear algebra | Medium](./machine_learning/9matrix_times_matrix.ipynb)
+- [10	Calculate Covariance Matrix | linear algebra | Medium](./machine_learning/10calculate_covariance_matrix.ipynb)
 - [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
+- [16	Feature Scaling Implementation | machine learning | Easy](./machine_learning/16feature_scaling.ipynb)
 - [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
 - [18	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/18cross_validation_data_split.ipynb)
 - [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
