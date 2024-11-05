@@ -540,6 +540,7 @@
 - [20241102.3226. 使两个整数相等的位更改次数 (easy)](./everyday/202411/20241102.cpp) 位运算，简单遍历
 - [20241103.638. 大礼包 (medium)](./everyday/202411/20241103.cpp) 回溯，dfs，记忆化搜索
 - [20241104.633. 平方数之和 (medium)](./everyday/202411/20241104.cpp) 枚举，双指针
+- [20241105.3222. 求出硬币游戏的赢家 (easy)](./everyday/202411/20241105.cpp) 简单遍历，数学
 
 </details>
 
@@ -553,28 +554,29 @@ https://www.deep-ml.com/
 <details open>
 <summary>展开/折叠</summary>
 
-- [1	Matrix times Vector | linear algebra | Easy](./machine_learning/1matrix_times_vector.ipynb)
-- [2	Transpose of a Matrix | linear algebra | Easy](./machine_learning/2transpose_of_a_matrix.ipynb)
-- [3	Reshape Matrix | linear algebra | Easy](./machine_learning/3reshape_matrix.ipynb)
-- [4	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/4calculate_mean_by_row_or_column.ipynb)
-- [5	Scalar Multiplication of a Matrix | linear algebra | Easy](./machine_learning/5scalar_multiplication_of_a_matrix.ipynb)
-- [6	Calculate Eigenvalues of a Matrix | linear algebra | Medium](./machine_learning/6calculate_eigenvalues_of_a_matrix.ipynb)
-- [7	Matrix Transformation | linear algebra | Medium](./machine_learning/7matrix_transformation.ipynb)
-- [8	Calculate 2x2 Matrix Inverse | linear algebra | Medium](./machine_learning/8calculate_2x2_matrix_inverse.ipynb)
-- [9	Matrix times Matrix | linear algebra | Medium](./machine_learning/9matrix_times_matrix.ipynb)
-- [10	Calculate Covariance Matrix | linear algebra | Medium](./machine_learning/10calculate_covariance_matrix.ipynb)
-- [13	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/13determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
-- [16	Feature Scaling Implementation | machine learning | Easy](./machine_learning/16feature_scaling.ipynb)
-- [17	K-Means Clustering | machine learning | Medium](./machine_learning/17kmeans_clustering.ipynb)
-- [18	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/18cross_validation_data_split.ipynb)
-- [19	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/19pca.ipynb)
-- [21	Pegasos Kernel SVM Implementation | machine learning | Hard](./machine_learning/21pegasos_kernel_svm.ipynb)
-- [23	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/23softmax_activation_function.ipynb)
-- [24	Single Neuron | deep learning | Easy](./machine_learning/24single_neuron.ipynb)
-- [33	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/33generate_random_subsets_of_a_dataset.ipynb)
-- [38	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/38implement_adaboost_fit_method.ipynb)
-- [45	Linear Kernel | machine learning | Easy](./machine_learning/45linear_kernel.ipynb)
-- [52	Recall | machine learning | Easy](./machine_learning/52recall.ipynb)
-- [55	2D Translation Matrix | linear algebra | Medium](./machine_learning/552d_translation_matrix.ipynb)
+- [001	Matrix times Vector | linear algebra | Easy](./machine_learning/001matrix_times_vector.ipynb)
+- [002	Transpose of a Matrix | linear algebra | Easy](./machine_learning/002transpose_of_a_matrix.ipynb)
+- [003	Reshape Matrix | linear algebra | Easy](./machine_learning/003reshape_matrix.ipynb)
+- [004	Calculate Mean by Row or Column | linear algebra | Easy](./machine_learning/004calculate_mean_by_row_or_column.ipynb)
+- [005	Scalar Multiplication of a Matrix | linear algebra | Easy](./machine_learning/005scalar_multiplication_of_a_matrix.ipynb)
+- [006	Calculate Eigenvalues of a Matrix | linear algebra | Medium](./machine_learning/006calculate_eigenvalues_of_a_matrix.ipynb)
+- [007	Matrix Transformation | linear algebra | Medium](./machine_learning/007matrix_transformation.ipynb)
+- [008	Calculate 2x2 Matrix Inverse | linear algebra | Medium](./machine_learning/008calculate_2x2_matrix_inverse.ipynb)
+- [009	Matrix times Matrix | linear algebra | Medium](./machine_learning/009matrix_times_matrix.ipynb)
+- [010	Calculate Covariance Matrix | linear algebra | Medium](./machine_learning/010calculate_covariance_matrix.ipynb)
+- [011	Solve Linear Equations using Jacobi Method | linear algebra | Medium](./machine_learning/011solve_linear_equations_using_jacobi_method.ipynb)
+- [013	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/013determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
+- [016	Feature Scaling Implementation | machine learning | Easy](./machine_learning/016feature_scaling.ipynb)
+- [017	K-Means Clustering | machine learning | Medium](./machine_learning/017kmeans_clustering.ipynb)
+- [018	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/018cross_validation_data_split.ipynb)
+- [019	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/019pca.ipynb)
+- [021	Pegasos Kernel SVM Implementation | machine learning | Hard](./machine_learning/021pegasos_kernel_svm.ipynb)
+- [023	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/023softmax_activation_function.ipynb)
+- [024	Single Neuron | deep learning | Easy](./machine_learning/024single_neuron.ipynb)
+- [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
+- [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
+- [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
+- [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
+- [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
 </details>
