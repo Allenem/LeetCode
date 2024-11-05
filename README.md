@@ -549,6 +549,7 @@
 https://www.deep-ml.com/
 
 2024.10.16 number of challenges: 59
+
 2024.11.04 number of challenges: 66
 
 <details open>
