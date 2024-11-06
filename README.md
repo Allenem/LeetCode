@@ -541,6 +541,7 @@
 - [20241103.638. 大礼包 (medium)](./everyday/202411/20241103.cpp) 回溯，dfs，记忆化搜索
 - [20241104.633. 平方数之和 (medium)](./everyday/202411/20241104.cpp) 枚举，双指针
 - [20241105.3222. 求出硬币游戏的赢家 (easy)](./everyday/202411/20241105.cpp) 简单遍历，数学
+- [20241106.3254. 长度为 K 的子数组的能量值 I (medium)](./everyday/202411/20241106.cpp) 简单遍历，约束条件
 
 </details>
 
@@ -566,6 +567,7 @@ https://www.deep-ml.com/
 - [009	Matrix times Matrix | linear algebra | Medium](./machine_learning/009matrix_times_matrix.ipynb)
 - [010	Calculate Covariance Matrix | linear algebra | Medium](./machine_learning/010calculate_covariance_matrix.ipynb)
 - [011	Solve Linear Equations using Jacobi Method | linear algebra | Medium](./machine_learning/011solve_linear_equations_using_jacobi_method.ipynb)
+- [012	Singular Value Decomposition (SVD) | linear algebra | Hard](./machine_learning/012singular_value_decomposition.ipynb)
 - [013	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/013determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [016	Feature Scaling Implementation | machine learning | Easy](./machine_learning/016feature_scaling.ipynb)
 - [017	K-Means Clustering | machine learning | Medium](./machine_learning/017kmeans_clustering.ipynb)
