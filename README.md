@@ -543,6 +543,7 @@
 - [20241105.3222. 求出硬币游戏的赢家 (easy)](./everyday/202411/20241105.cpp) 简单遍历，数学
 - [20241106.3254. 长度为 K 的子数组的能量值 I (medium)](./everyday/202411/20241106.cpp) 简单遍历，约束条件
 - [20241107.3255. 长度为 K 的子数组的能量值 II (medium)](./everyday/202411/20241107.cpp) 简单遍历，约束条件
+- [20241108.3235. 判断矩形的两个角落是否可达 (hard)](./everyday/202411/20241108.cpp) dfs
 
 </details>
 
@@ -571,6 +572,7 @@ https://www.deep-ml.com/
 - [012	Singular Value Decomposition (SVD) | linear algebra | Hard](./machine_learning/012singular_value_decomposition.ipynb)
 - [013	Determinant of a 4x4 Matrix using Laplace's Expansion | linear algebra | Hard](./machine_learning/013determinant_of_a_4x4_matrix_using_laplace_expansion.ipynb)
 - [014	Linear Regression Using Normal Equation | machine learning | Easy](./machine_learning/014linear_regression_using_normal_equation.ipynb)
+- [015	Linear Regression Using Gradient Descent | machine learning | Easy](./machine_learning/015linear_regression_using_gradient_descent.ipynb)
 - [016	Feature Scaling Implementation | machine learning | Easy](./machine_learning/016feature_scaling.ipynb)
 - [017	K-Means Clustering | machine learning | Medium](./machine_learning/017kmeans_clustering.ipynb)
 - [018	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/018cross_validation_data_split.ipynb)
