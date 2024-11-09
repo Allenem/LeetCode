@@ -544,6 +544,7 @@
 - [20241106.3254. 长度为 K 的子数组的能量值 I (medium)](./everyday/202411/20241106.cpp) 简单遍历，约束条件
 - [20241107.3255. 长度为 K 的子数组的能量值 II (medium)](./everyday/202411/20241107.cpp) 简单遍历，约束条件
 - [20241108.3235. 判断矩形的两个角落是否可达 (hard)](./everyday/202411/20241108.cpp) dfs
+- [20241109.3242. 设计相邻元素求和服务 (easy)](./everyday/202411/20241109.cpp) 数组，简单遍历
 
 </details>
 
@@ -577,6 +578,7 @@ https://www.deep-ml.com/
 - [017	K-Means Clustering | machine learning | Medium](./machine_learning/017kmeans_clustering.ipynb)
 - [018	Cross-Validation Data Split Implementation | machine learning | Medium](./machine_learning/018cross_validation_data_split.ipynb)
 - [019	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/019pca.ipynb)
+- [020	Decision Tree Learning | machine learning | Hard](./machine_learning/020decision_tree_learning.ipynb)
 - [021	Pegasos Kernel SVM Implementation | machine learning | Hard](./machine_learning/021pegasos_kernel_svm.ipynb)
 - [023	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/023softmax_activation_function.ipynb)
 - [024	Single Neuron | deep learning | Easy](./machine_learning/024single_neuron.ipynb)
