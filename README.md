@@ -545,6 +545,7 @@
 - [20241107.3255. 长度为 K 的子数组的能量值 II (medium)](./everyday/202411/20241107.cpp) 简单遍历，约束条件
 - [20241108.3235. 判断矩形的两个角落是否可达 (hard)](./everyday/202411/20241108.cpp) dfs
 - [20241109.3242. 设计相邻元素求和服务 (easy)](./everyday/202411/20241109.cpp) 数组，简单遍历
+- [20241110.540. 有序数组中的单一元素 (medium)](./everyday/202411/20241110.cpp) 二分，异或
 
 </details>
 
@@ -580,6 +581,7 @@ https://www.deep-ml.com/
 - [019	Principal Component Analysis (PCA) Implementation | machine learning | Medium](./machine_learning/019pca.ipynb)
 - [020	Decision Tree Learning | machine learning | Hard](./machine_learning/020decision_tree_learning.ipynb)
 - [021	Pegasos Kernel SVM Implementation | machine learning | Hard](./machine_learning/021pegasos_kernel_svm.ipynb)
+- [022	Sigmoid Activation Function Understanding | deep learning | Easy](./machine_learning/022sigmoid_activation_function.ipynb)
 - [023	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/023softmax_activation_function.ipynb)
 - [024	Single Neuron | deep learning | Easy](./machine_learning/024single_neuron.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
