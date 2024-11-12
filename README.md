@@ -547,6 +547,7 @@
 - [20241109.3242. 设计相邻元素求和服务 (easy)](./everyday/202411/20241109.cpp) 数组，简单遍历
 - [20241110.540. 有序数组中的单一元素 (medium)](./everyday/202411/20241110.cpp) 二分，异或
 - [20241111.1547. 切棍子的最小成本 (hard)](./everyday/202411/20241111.cpp) dfs, 记忆化搜索
+- [20241112.3258. 统计满足 K 约束的子字符串数量 I (easy)](./everyday/202411/20241112.cpp) 滑窗
 
 </details>
 
@@ -586,6 +587,7 @@ https://www.deep-ml.com/
 - [023	Softmax Activation Function Implementation | deep learning | Easy](./machine_learning/023softmax_activation_function.ipynb)
 - [024	Single Neuron | deep learning | Easy](./machine_learning/024single_neuron.ipynb)
 - [025	Single Neuron with Backpropagation | deep learning | Medium](./machine_learning/025single_neuron_with_backpropagation.ipynb)
+- [026	Implementing Basic Autograd Operations | deep learning | Medium](./machine_learning/026implementing_basic_autograd_operations.ipynb)
 - [030	Batch Iterator for Dataset | machine learning | Easy](./machine_learning/030batch_iterator_for_dataset.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
