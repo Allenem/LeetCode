@@ -549,6 +549,7 @@
 - [20241111.1547. 切棍子的最小成本 (hard)](./everyday/202411/20241111.cpp) dfs, 记忆化搜索
 - [20241112.3258. 统计满足 K 约束的子字符串数量 I (easy)](./everyday/202411/20241112.cpp) 滑窗
 - [20241113.3261. 统计满足 K 约束的子字符串数量 II (hard)](./everyday/202411/20241113.cpp) 滑窗，前缀和，分类讨论
+- [20241114.3249. 统计好节点的数目 (medium)](./everyday/202411/20241114.cpp) 图，dfs
 
 </details>
 
@@ -590,6 +591,7 @@ https://www.deep-ml.com/
 - [025	Single Neuron with Backpropagation | deep learning | Medium](./machine_learning/025single_neuron_with_backpropagation.ipynb)
 - [026	Implementing Basic Autograd Operations | deep learning | Medium](./machine_learning/026implementing_basic_autograd_operations.ipynb)
 - [027	Transformation Matrix from Basis B to C | linear algebra | Easy](./machine_learning/027transformation_matrix_from_basis_b_to_c.ipynb)
+- [028	SVD of a 2x2 Matrix using eigen values & vectors | linear algebra | Hard](./machine_learning/028svd_of_a_2x2_matrix_using_eigen_values_and_vectors.ipynb)
 - [030	Batch Iterator for Dataset | machine learning | Easy](./machine_learning/030batch_iterator_for_dataset.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
