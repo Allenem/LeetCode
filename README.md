@@ -551,6 +551,7 @@
 - [20241113.3261. 统计满足 K 约束的子字符串数量 II (hard)](./everyday/202411/20241113.cpp) 滑窗，前缀和，分类讨论
 - [20241114.3249. 统计好节点的数目 (medium)](./everyday/202411/20241114.cpp) 图，dfs
 - [20241115.3239. 最少翻转次数使二进制矩阵回文 I (medium)](./everyday/202411/20241115.cpp) 简单模拟
+- [20241116.3240. 最少翻转次数使二进制矩阵回文 II (medium)](./everyday/202411/20241116.cpp) 分类讨论
 
 </details>
 
@@ -595,6 +596,7 @@ https://www.deep-ml.com/
 - [028	SVD of a 2x2 Matrix using eigen values & vectors | linear algebra | Hard](./machine_learning/028svd_of_a_2x2_matrix_using_eigen_values_and_vectors.ipynb)
 - [029	Random Shuffle of Dataset | machine learning | Easy](./machine_learning/029random_shuffle_of_dataset.ipynb)
 - [030	Batch Iterator for Dataset | machine learning | Easy](./machine_learning/030batch_iterator_for_dataset.ipynb)
+- [031    Divide Dataset Based on Feature Threshold | machine learning | Medium](./machine_learning/031divide_dataset_based_on_feature_threshold.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
