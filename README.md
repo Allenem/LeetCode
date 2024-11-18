@@ -553,6 +553,7 @@
 - [20241115.3239. 最少翻转次数使二进制矩阵回文 I (medium)](./everyday/202411/20241115.cpp) 简单模拟
 - [20241116.3240. 最少翻转次数使二进制矩阵回文 II (medium)](./everyday/202411/20241116.cpp) 分类讨论
 - [20241117.825. 适龄的朋友 (medium)](./everyday/202411/20241117.cpp) 排序+双指针+哈希表，第三个条件完全多余
+- [20241118.661. 图片平滑器 (easy)](./everyday/202411/20241118.cpp) 简单遍历
 
 </details>
 
@@ -600,6 +601,7 @@ https://www.deep-ml.com/
 - [031    Divide Dataset Based on Feature Threshold | machine learning | Medium](./machine_learning/031divide_dataset_based_on_feature_threshold.ipynb)
 - [032	Generate Polynomial Features | machine learning | Medium](./machine_learning/032generate_polynomial_features.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
+- [034	One-Hot Encoding of Nominal Values | machine learning | Easy](./machine_learning/034one_hot_encoding_of_nominal_values.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
