@@ -554,6 +554,7 @@
 - [20241116.3240. 最少翻转次数使二进制矩阵回文 II (medium)](./everyday/202411/20241116.cpp) 分类讨论
 - [20241117.825. 适龄的朋友 (medium)](./everyday/202411/20241117.cpp) 排序+双指针+哈希表，第三个条件完全多余
 - [20241118.661. 图片平滑器 (easy)](./everyday/202411/20241118.cpp) 简单遍历
+- [20241119.3243. 新增道路查询后的最短距离 I (medium)](./everyday/202411/20241119.cpp) dp, bfs
 
 </details>
 
@@ -602,6 +603,7 @@ https://www.deep-ml.com/
 - [032	Generate Polynomial Features | machine learning | Medium](./machine_learning/032generate_polynomial_features.ipynb)
 - [033	Generate Random Subsets of a Dataset | machine learning | Medium](./machine_learning/033generate_random_subsets_of_a_dataset.ipynb)
 - [034	One-Hot Encoding of Nominal Values | machine learning | Easy](./machine_learning/034one_hot_encoding_of_nominal_values.ipynb)
+- [035	Convert Vector to Diagonal Matrix | linear algebra | Easy](./machine_learning/035convert_vector_to_diagonal_matrix.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
