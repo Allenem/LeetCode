@@ -557,6 +557,7 @@
 - [20241119.3243. 新增道路查询后的最短距离 I (medium)](./everyday/202411/20241119.cpp) dp, bfs
 - [20241120.3244. 新增道路查询后的最短距离 II (hard)](./everyday/202411/20241120.cpp) 贪心
 - [20241121.3248. 矩阵中的蛇 (easy)](./everyday/202411/20241121.cpp) 简单遍历
+- [20241122.3233. 统计不是特殊数字的数字数量 (medium)](./everyday/202411/20241122.cpp) 数学，质数
 
 </details>
 
@@ -609,6 +610,7 @@ https://www.deep-ml.com/
 - [036	Calculate Accuracy Score | machine learning | Easy](./machine_learning/036calculate_accuracy_score.ipynb)
 - [037	Calculate Correlation Matrix | linear algebra | Medium](./machine_learning/037calculate_correlation_matrix.ipynb)
 - [038	Implement AdaBoost Fit Method | machine learning | Hard](./machine_learning/038implement_adaboost_fit_method.ipynb)
+- [039	Log Softmax | deep learning | Easy](./machine_learning/039log_softmax.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
