@@ -562,6 +562,7 @@
 - [20241124.632. 最小区间 (hard)](./everyday/202411/20241124.cpp) 哈希表，贪心，最小堆，滑窗
 - [20241125.743. 网络延迟时间 (medium)](./everyday/202411/20241125.cpp) dijkstra, 最小堆，小根堆
 - [20241126.3206. 交替组 I (easy)](./everyday/202411/20241126.cpp) so easy
+- [20241127.3207. 交替组 II (medium)](./everyday/202411/20241127.cpp) 复制一份，简单遍历，滑窗
 
 </details>
 
@@ -621,6 +622,7 @@ https://www.deep-ml.com/
 - [043	Ridge Regression Loss | machine learning | Easy](./machine_learning/043ridge_regression_loss.ipynb)
 - [044	Leaky ReLU | deep learning | Easy](./machine_learning/044leaky_relu.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
+- [046	Precision Metric | machine learning | Easy](./machine_learning/046precision_metric.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
