@@ -563,6 +563,7 @@
 - [20241125.743. 网络延迟时间 (medium)](./everyday/202411/20241125.cpp) dijkstra, 最小堆，小根堆
 - [20241126.3206. 交替组 I (easy)](./everyday/202411/20241126.cpp) so easy
 - [20241127.3207. 交替组 II (medium)](./everyday/202411/20241127.cpp) 复制一份，简单遍历，滑窗
+- [20241128.3250. 单调数组对的数目 I (hard)](./everyday/202411/20241128.cpp) dp，前缀和
 
 </details>
 
@@ -623,6 +624,7 @@ https://www.deep-ml.com/
 - [044	Leaky ReLU | deep learning | Easy](./machine_learning/044leaky_relu.ipynb)
 - [045	Linear Kernel | machine learning | Easy](./machine_learning/045linear_kernel.ipynb)
 - [046	Precision Metric | machine learning | Easy](./machine_learning/046precision_metric.ipynb)
+- [047	Gradient Descent Variants | machine learning | Medium](./machine_learning/047gradient_descent_variants.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
