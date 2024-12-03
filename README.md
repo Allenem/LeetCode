@@ -574,6 +574,7 @@
 
 - [20241201.51. N 皇后 (hard)](./everyday/202412/241201.cpp) DFS，记忆化搜索，回溯
 - [20241202.52. N 皇后 II (hard)](./everyday/202412/241202.cpp) DFS，记忆化搜索，回溯
+- [20241203.3274. 检查棋盘方格颜色是否相同 (easy)](./everyday/202412/241203.cpp) 简单遍历
 
 </details>
 
@@ -638,6 +639,7 @@ https://www.deep-ml.com/
 - [048	Reduced Row Echelon Form | linear algebra | Medium](./machine_learning/048reduced_row_echelon_form.ipynb)
 - [049	Adam Optimization | deep learning | Medium](./machine_learning/049adam_optimization.ipynb)
 - [050	Lasso Regression using Gradient Descent | machine learning | Medium](./machine_learning/050lasso_regression_using_gradient_descent.ipynb)
+- [051	Levenshtein Distance | nlp | Medium](./machine_learning/051levenshtein_distance.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
