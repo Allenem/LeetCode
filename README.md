@@ -567,6 +567,8 @@
 - [20241129.3251. 单调数组对的数目 II (hard)](./everyday/202411/20241129.cpp) dp，前缀和
 - [20241130.3232. 判断是否可以赢得数字游戏 (easy)](./everyday/202411/20241130.cpp) 简单遍历
 
+</details>
+
 ### 2024.12
 
 <details open>
@@ -575,6 +577,7 @@
 - [20241201.51. N 皇后 (hard)](./everyday/202412/241201.cpp) DFS，记忆化搜索，回溯
 - [20241202.52. N 皇后 II (hard)](./everyday/202412/241202.cpp) DFS，记忆化搜索，回溯
 - [20241203.3274. 检查棋盘方格颜色是否相同 (easy)](./everyday/202412/241203.cpp) 简单遍历
+- [20241204.2056. 棋盘上有效移动组合的数目 (hard)](./everyday/202412/241204.cpp) 回溯，dfs，很难！！！
 
 </details>
 
@@ -641,6 +644,7 @@ https://www.deep-ml.com/
 - [050	Lasso Regression using Gradient Descent | machine learning | Medium](./machine_learning/050lasso_regression_using_gradient_descent.ipynb)
 - [051	Levenshtein Distance | nlp | Medium](./machine_learning/051levenshtein_distance.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
+- [053	Self-Attention Mechanism | deep learning | Medium](./machine_learning/053self_attention_mechanism.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
 </details>
