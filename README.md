@@ -578,6 +578,7 @@
 - [20241202.52. N 皇后 II (hard)](./everyday/202412/241202.cpp) DFS，记忆化搜索，回溯
 - [20241203.3274. 检查棋盘方格颜色是否相同 (easy)](./everyday/202412/241203.cpp) 简单遍历
 - [20241204.2056. 棋盘上有效移动组合的数目 (hard)](./everyday/202412/241204.cpp) 回溯，dfs，很难！！！
+- [20241205.3001. 捕获黑皇后需要的最少移动次数 (medium)](./everyday/202412/241205.cpp) 分类讨论
 
 </details>
 
@@ -645,6 +646,7 @@ https://www.deep-ml.com/
 - [051	Levenshtein Distance | nlp | Medium](./machine_learning/051levenshtein_distance.ipynb)
 - [052	Recall | machine learning | Easy](./machine_learning/052recall.ipynb)
 - [053	Self-Attention Mechanism | deep learning | Medium](./machine_learning/053self_attention_mechanism.ipynb)
+- [054	RNN Layer | deep learning | Medium](./machine_learning/054rnn_layer.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 
 </details>
