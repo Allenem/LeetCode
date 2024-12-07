@@ -580,6 +580,7 @@
 - [20241204.2056. 棋盘上有效移动组合的数目 (hard)](./everyday/202412/241204.cpp) 回溯，dfs，很难！！！
 - [20241205.3001. 捕获黑皇后需要的最少移动次数 (medium)](./everyday/202412/241205.cpp) 分类讨论
 - [20241206.999. 可以被一步捕获的棋子数 (easy)](./everyday/202412/241206.cpp) 遍历
+- [20241207.688. 骑士在棋盘上的概率 (medium)](./everyday/202412/241207.cpp) dfs
 
 </details>
 
@@ -650,5 +651,6 @@ https://www.deep-ml.com/
 - [054	RNN Layer | deep learning | Medium](./machine_learning/054rnn_layer.ipynb)
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 - [056	KL Divergence Between Two Normal Distributions | deep learning | Easy](./machine_learning/056kl_divergence_between_two_normal_distributions.ipynb)
+- [057	Gauss-Seidel Method | linear algebra | Medium](./machine_learning/057gauss_seidel_method.ipynb)
 
 </details>
