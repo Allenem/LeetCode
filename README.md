@@ -581,6 +581,8 @@
 - [20241205.3001. 捕获黑皇后需要的最少移动次数 (medium)](./everyday/202412/241205.cpp) 分类讨论
 - [20241206.999. 可以被一步捕获的棋子数 (easy)](./everyday/202412/241206.cpp) 遍历
 - [20241207.688. 骑士在棋盘上的概率 (medium)](./everyday/202412/241207.cpp) dfs
+- [20241208.782. 变为棋盘 (hard)](./everyday/202412/241208.cpp) 位运算，逆向思维
+- [20241209.3275. 使字符串平衡的最小交换次数 (medium)](./everyday/202412/241209.cpp) 简单遍历
 
 </details>
 
@@ -652,5 +654,6 @@ https://www.deep-ml.com/
 - [055	2D Translation Matrix | linear algebra | Medium](./machine_learning/0552d_translation_matrix.ipynb)
 - [056	KL Divergence Between Two Normal Distributions | deep learning | Easy](./machine_learning/056kl_divergence_between_two_normal_distributions.ipynb)
 - [057	Gauss-Seidel Method | linear algebra | Medium](./machine_learning/057gauss_seidel_method.ipynb)
+- [058	Gaussian Elimination | linear algebra | Medium](./machine_learning/058gaussian_elimination.ipynb)
 
 </details>
