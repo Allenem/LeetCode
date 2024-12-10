@@ -583,6 +583,7 @@
 - [20241207.688. 骑士在棋盘上的概率 (medium)](./everyday/202412/241207.cpp) dfs
 - [20241208.782. 变为棋盘 (hard)](./everyday/202412/241208.cpp) 位运算，逆向思维
 - [20241209.3275. 使字符串平衡的最小交换次数 (medium)](./everyday/202412/241209.cpp) 简单遍历
+- [20241210.935. 骑士拨号器 (medium)](./everyday/202412/241210.cpp) dp
 
 </details>
 
@@ -593,6 +594,8 @@ https://www.deep-ml.com/
 2024.10.16 number of challenges: 59
 
 2024.11.04 number of challenges: 66
+
+2024.12.10 number of challenges: 77
 
 <details open>
 <summary>展开/折叠</summary>
@@ -655,5 +658,6 @@ https://www.deep-ml.com/
 - [056	KL Divergence Between Two Normal Distributions | deep learning | Easy](./machine_learning/056kl_divergence_between_two_normal_distributions.ipynb)
 - [057	Gauss-Seidel Method | linear algebra | Medium](./machine_learning/057gauss_seidel_method.ipynb)
 - [058	Gaussian Elimination | linear algebra | Medium](./machine_learning/058gaussian_elimination.ipynb)
+- [059	Long Short-Term Memory (LSTM) | deep learning | Medium](./machine_learning/059long_short_term_memory.ipynb)
 
 </details>
