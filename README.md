@@ -584,6 +584,7 @@
 - [20241208.782. 变为棋盘 (hard)](./everyday/202412/241208.cpp) 位运算，逆向思维
 - [20241209.3275. 使字符串平衡的最小交换次数 (medium)](./everyday/202412/241209.cpp) 简单遍历
 - [20241210.935. 骑士拨号器 (medium)](./everyday/202412/241210.cpp) dp
+- [20241211.32717. 半有序排列 (easy)](./everyday/202412/241211.cpp) 简单遍历
 
 </details>
 
@@ -659,5 +660,6 @@ https://www.deep-ml.com/
 - [057	Gauss-Seidel Method | linear algebra | Medium](./machine_learning/057gauss_seidel_method.ipynb)
 - [058	Gaussian Elimination | linear algebra | Medium](./machine_learning/058gaussian_elimination.ipynb)
 - [059	Long Short-Term Memory (LSTM) | deep learning | Medium](./machine_learning/059long_short_term_memory.ipynb)
+- [060	TF-IDF | nlp | Medium](./machine_learning/060tf_idf.ipynb)
 
 </details>
