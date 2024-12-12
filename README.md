@@ -585,6 +585,7 @@
 - [20241209.3275. 使字符串平衡的最小交换次数 (medium)](./everyday/202412/241209.cpp) 简单遍历
 - [20241210.935. 骑士拨号器 (medium)](./everyday/202412/241210.cpp) dp
 - [20241211.32717. 半有序排列 (easy)](./everyday/202412/241211.cpp) 简单遍历
+- [20241212.2931. 购买物品的最大开销 (hard)](./everyday/202412/241212.cpp) 排序 or 优先队列
 
 </details>
 
@@ -661,5 +662,6 @@ https://www.deep-ml.com/
 - [058	Gaussian Elimination | linear algebra | Medium](./machine_learning/058gaussian_elimination.ipynb)
 - [059	Long Short-Term Memory (LSTM) | deep learning | Medium](./machine_learning/059long_short_term_memory.ipynb)
 - [060	TF-IDF | nlp | Medium](./machine_learning/060tf_idf.ipynb)
+- [061	F-Score Calculation | machine learning | Easy](./machine_learning/061f_score_calculation.ipynb)
 
 </details>
