@@ -589,6 +589,7 @@
 - [20241213.3264. K 次乘运算后的最终数组 I (easy)](./everyday/202412/241213.cpp) 优先队列
 - [20241214.3266. K 次乘运算后的最终数组 II (hard)](./everyday/202412/241214.cpp) 优先队列
 - [20241215.1338. 数组大小减半 (medium)](./everyday/202412/241215.cpp) 优先队列
+- [20241216.1847. 最近的房间 (hard)](./everyday/202412/241216.cpp) 有序集合，二分查找
 
 </details>
 
@@ -667,5 +668,7 @@ https://www.deep-ml.com/
 - [060	TF-IDF | nlp | Medium](./machine_learning/060tf_idf.ipynb)
 - [061	F-Score Calculation | machine learning | Easy](./machine_learning/061f_score_calculation.ipynb)
 - [062	RNN with Backpropagation Through Time | deep learning | Hard](./machine_learning/062rnn_with_backpropagation_through_time.ipynb)
+- [063	Conjugate Gradient | linear algebra | Hard](./machine_learning/063conjugate_gradient.ipynb)
+- [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
