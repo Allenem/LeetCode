@@ -590,6 +590,7 @@
 - [20241214.3266. K 次乘运算后的最终数组 II (hard)](./everyday/202412/241214.cpp) 优先队列
 - [20241215.1338. 数组大小减半 (medium)](./everyday/202412/241215.cpp) 优先队列
 - [20241216.1847. 最近的房间 (hard)](./everyday/202412/241216.cpp) 有序集合，二分查找
+- [20241217.3291. 形成目标字符串需要的最少字符串数 I (medium)](./everyday/202412/241217.cpp) 字典树 + 记忆化搜索
 
 </details>
 
@@ -669,6 +670,7 @@ https://www.deep-ml.com/
 - [061	F-Score Calculation | machine learning | Easy](./machine_learning/061f_score_calculation.ipynb)
 - [062	RNN with Backpropagation Through Time | deep learning | Hard](./machine_learning/062rnn_with_backpropagation_through_time.ipynb)
 - [063	Conjugate Gradient | linear algebra | Hard](./machine_learning/063conjugate_gradient.ipynb)
+- [064 Implement Gini Impurity Calculation for a Set of Classes | machine learning | Easy](./machine_learning/064gini_impurity_calculation.ipynb)
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
