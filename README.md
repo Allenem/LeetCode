@@ -593,6 +593,7 @@
 - [20241217.3291. 形成目标字符串需要的最少字符串数 I (medium)](./everyday/202412/241217.cpp) 字典树 + 记忆化搜索
 - [20241218.3292. 形成目标字符串需要的最少字符串数 II (hard)](./everyday/202412/241218.cpp) AC 自动机优化 DP, Z函数，Hash，二分
 - [20241219.3285. 找到稳定山的下标 (easy)](./everyday/202412/241219.cpp) 简单遍历
+- [20241220.3138. 同位字符串连接的最小长度 (medium)](./everyday/202412/241220.cpp) 枚举长度
 
 </details>
 
@@ -674,6 +675,7 @@ https://www.deep-ml.com/
 - [063	Conjugate Gradient | linear algebra | Hard](./machine_learning/063conjugate_gradient.ipynb)
 - [064 Implement Gini Impurity Calculation for a Set of Classes | machine learning | Easy](./machine_learning/064gini_impurity_calculation.ipynb)
 - [065	Implement Compressed Row Sparse Matrix (CSR) Format Conversion | Linear Algebra | Easy](./machine_learning/065compressed_row_sparse_matrix_conversion.ipynb)
+- [066	Implement Orthogonal Projection of a Vector onto a Line | easy | Linear Algebra](./machine_learning/066orthogonal_projection_of_a_vector_onto_a_line.ipynb)
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
