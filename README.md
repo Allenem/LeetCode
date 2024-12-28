@@ -601,6 +601,7 @@
 - [20241225.3218. 切蛋糕的最小总开销 I (medium)](./everyday/202412/241225.cpp) 贪心
 - [20241226.3083. 字符串及其反转中是否存在同一子字符串 (easy)](./everyday/202412/241226.cpp) 简单遍历，hash
 - [20241227.3159. 查询数组中元素的出现位置 (medium)](./everyday/202412/241227.cpp) 2次简单遍历
+- [20241228.3046. 分割数组 (easy)](./everyday/202412/241228.cpp) 简单遍历
 
 </details>
 
@@ -613,6 +614,8 @@ https://www.deep-ml.com/
 2024.11.04 number of challenges: 66
 
 2024.12.10 number of challenges: 77
+
+2024.12.28 number of challenges: 85
 
 <details open>
 <summary>展开/折叠</summary>
@@ -683,6 +686,7 @@ https://www.deep-ml.com/
 - [064 Implement Gini Impurity Calculation for a Set of Classes | machine learning | Easy](./machine_learning/064gini_impurity_calculation.ipynb)
 - [065	Implement Compressed Row Sparse Matrix (CSR) Format Conversion | Linear Algebra | Easy](./machine_learning/065compressed_row_sparse_matrix_conversion.ipynb)
 - [066	Implement Orthogonal Projection of a Vector onto a Line | easy | Linear Algebra](./machine_learning/066orthogonal_projection_of_a_vector_onto_a_line.ipynb)
+- [067	Implement Compressed Column Sparse Matrix Format (CSC) | easy | Linear Algebra](./machine_learning/067compressed_column_sparse_matrix_format.ipynb)
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
