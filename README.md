@@ -602,6 +602,7 @@
 - [20241226.3083. 字符串及其反转中是否存在同一子字符串 (easy)](./everyday/202412/241226.cpp) 简单遍历，hash
 - [20241227.3159. 查询数组中元素的出现位置 (medium)](./everyday/202412/241227.cpp) 2次简单遍历
 - [20241228.3046. 分割数组 (easy)](./everyday/202412/241228.cpp) 简单遍历
+- [20241229.1366. 通过投票对团队排名 (medium)](./everyday/202412/241229.cpp) 排序
 
 </details>
 
@@ -687,6 +688,7 @@ https://www.deep-ml.com/
 - [065	Implement Compressed Row Sparse Matrix (CSR) Format Conversion | Linear Algebra | Easy](./machine_learning/065compressed_row_sparse_matrix_conversion.ipynb)
 - [066	Implement Orthogonal Projection of a Vector onto a Line | easy | Linear Algebra](./machine_learning/066orthogonal_projection_of_a_vector_onto_a_line.ipynb)
 - [067	Implement Compressed Column Sparse Matrix Format (CSC) | easy | Linear Algebra](./machine_learning/067compressed_column_sparse_matrix_format.ipynb)
+- [068	Find the Image of a Matrix Using Row Echelon Form | Linear Algebra | Medium](./machine_learning/068image_of_a_matrix_using_row_echelon_form.ipynb)
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
