@@ -571,7 +571,7 @@
 
 ### 2024.12
 
-<details open>
+<details>
 <summary>展开/折叠</summary>
 
 - [20241201.51. N 皇后 (hard)](./everyday/202412/241201.cpp) DFS，记忆化搜索，回溯
@@ -603,6 +603,8 @@
 - [20241227.3159. 查询数组中元素的出现位置 (medium)](./everyday/202412/241227.cpp) 2次简单遍历
 - [20241228.3046. 分割数组 (easy)](./everyday/202412/241228.cpp) 简单遍历
 - [20241229.1366. 通过投票对团队排名 (medium)](./everyday/202412/241229.cpp) 排序
+- [20241230.1367. 二叉树中的链表 (medium)](./everyday/202412/241230.cpp) dfs
+- [20241231.3218. 切蛋糕的最小总开销 II (hard)](./everyday/202412/241231.cpp) 贪心
 
 </details>
 
@@ -689,6 +691,9 @@ https://www.deep-ml.com/
 - [066	Implement Orthogonal Projection of a Vector onto a Line | easy | Linear Algebra](./machine_learning/066orthogonal_projection_of_a_vector_onto_a_line.ipynb)
 - [067	Implement Compressed Column Sparse Matrix Format (CSC) | easy | Linear Algebra](./machine_learning/067compressed_column_sparse_matrix_format.ipynb)
 - [068	Find the Image of a Matrix Using Row Echelon Form | Linear Algebra | Medium](./machine_learning/068image_of_a_matrix_using_row_echelon_form.ipynb)
+- [069	Calculate R-squared for Regression Analysis | easy | Machine Learning](./machine_learning/069calculate_r_squared.ipynb)
+- [070	Calculate Image Brightness | easy | Computer Vision](./machine_learning/070calculate_image_brightness.ipynb)
+- 
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
 
 </details>
