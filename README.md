@@ -145,7 +145,10 @@
 
 </details>
 
-## 2.每日一题 (everyday) (cpp)
+## 2.每日一题 (everyday) (cpp) (2024)
+
+<details>
+<summary>展开/折叠 全年</summary>
 
 ### 2024.01
 
@@ -608,9 +611,14 @@
 
 </details>
 
+</details>
+
 ## 3.Machine Learning Code Challenges (meachine_learning) (jupyter notebook)
 
 https://www.deep-ml.com/
+
+<details>
+<summary>展开/折叠</summary>
 
 2024.10.16 number of challenges: 59
 
@@ -619,9 +627,6 @@ https://www.deep-ml.com/
 2024.12.10 number of challenges: 77
 
 2024.12.28 number of challenges: 85
-
-<details open>
-<summary>展开/折叠</summary>
 
 - [001	Matrix times Vector | linear algebra | Easy](./machine_learning/001matrix_times_vector.ipynb)
 - [002	Transpose of a Matrix | linear algebra | Easy](./machine_learning/002transpose_of_a_matrix.ipynb)
@@ -695,5 +700,16 @@ https://www.deep-ml.com/
 - [070	Calculate Image Brightness | easy | Computer Vision](./machine_learning/070calculate_image_brightness.ipynb)
 - 
 - [075	Confusion Matrix for Binary Classification | machine learning | Easy](./machine_learning/075confusion_matrix_for_binary_classification.ipynb)
+
+</details>
+
+## 4. LeetCode 20 days
+
+<details open>
+<summary>展开/折叠</summary>
+
+- [roadmap](./leetcode20days/leetcode刷题路线v2.0.xlsx)
+- [day1_basics](./leetcode20days/day1_basics.ipynb)
+- [day2_acm_formats](./leetcode20days/day2_acm_formats.ipynb), [day2_inputoutput](./leetcode20days/day2_inputoutput.py)
 
 </details>
