@@ -709,7 +709,8 @@ https://www.deep-ml.com/
 <summary>展开/折叠</summary>
 
 - [roadmap](./leetcode20days/leetcode刷题路线v2.0.xlsx)
-- [day1_basics](./leetcode20days/day1_basics.ipynb)
-- [day2_acm_formats](./leetcode20days/day2_acm_formats.ipynb), [day2_inputoutput](./leetcode20days/day2_inputoutput.py)
+- [day001_basics](./leetcode20days/day001_basics.ipynb)
+- [day002_acm_formats](./leetcode20days/day002_acm_formats.ipynb), [day002_inputoutput](./leetcode20days/day002_inputoutput.py)
+- [day003_doublepointer](./leetcode20days/day003_doublepointer.ipynb)
 
 </details>
