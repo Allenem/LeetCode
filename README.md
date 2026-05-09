@@ -711,6 +711,7 @@ https://www.deep-ml.com/
 - [roadmap](./leetcode20days/leetcode刷题路线v2.0.xlsx)
 - [day001_basics](./leetcode20days/day001_basics.ipynb)
 - [day002_acm_formats](./leetcode20days/day002_acm_formats.ipynb), [day002_inputoutput](./leetcode20days/day002_inputoutput.py)
-- [day003_doublepointer](./leetcode20days/day003_doublepointer.ipynb)
+- [day003_doublepointers](./leetcode20days/day003_doublepointers.ipynb) 双指针——左右碰撞指针
+- [day004_doublepointers](./leetcode20days/day004_doublepointers.ipynb) 双指针——分离指针
 
 </details>
