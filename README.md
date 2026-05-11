@@ -713,5 +713,7 @@ https://www.deep-ml.com/
 - [day002_acm_formats](./leetcode20days/day002_acm_formats.ipynb), [day002_inputoutput](./leetcode20days/day002_inputoutput.py)
 - [day003_doublepointers](./leetcode20days/day003_doublepointers.ipynb) 双指针——左右碰撞指针
 - [day004_doublepointers](./leetcode20days/day004_doublepointers.ipynb) 双指针——分离指针
+- [day005_doublepointers](./leetcode20days/day005_doublepointers.ipynb) 双指针——快慢指针
+- [day006_hashmap](./leetcode20days/day006_hashmap.ipynb) 哈希表
 
 </details>
