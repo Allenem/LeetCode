@@ -716,5 +716,6 @@ https://www.deep-ml.com/
 - [day005_doublepointers](./leetcode20days/day005_doublepointers.ipynb) 双指针——快慢指针
 - [day006_hashmap](./leetcode20days/day006_hashmap.ipynb) 哈希表
 - [day007_slidingwindow](./leetcode20days/day007_slidingwindow.ipynb) 滑动窗口
+- [day008_binarysearch](./leetcode20days/day008_binarysearch.ipynb) 二分查找
 
 </details>
