@@ -717,5 +717,7 @@ https://www.deep-ml.com/
 - [day006_hashmap](./leetcode20days/day006_hashmap.ipynb) 哈希表
 - [day007_slidingwindow](./leetcode20days/day007_slidingwindow.ipynb) 滑动窗口
 - [day008_binarysearch](./leetcode20days/day008_binarysearch.ipynb) 二分查找
+- [day009_presum](./leetcode20days/day009_presum.ipynb) 前缀和
+- [day010_greedy](./leetcode20days/day010_greedy.ipynb) 贪心
 
 </details>
