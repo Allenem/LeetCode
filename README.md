@@ -719,5 +719,6 @@ https://www.deep-ml.com/
 - [day008_binarysearch](./leetcode20days/day008_binarysearch.ipynb) 二分查找
 - [day009_presum](./leetcode20days/day009_presum.ipynb) 前缀和
 - [day010_greedy](./leetcode20days/day010_greedy.ipynb) 贪心
+- [day011_stack&queue](./leetcode20days/day011_stack&queue.ipynb) 栈和队列
 
 </details>
