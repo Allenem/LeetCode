@@ -708,20 +708,33 @@ https://www.deep-ml.com/
 <details open>
 <summary>展开/折叠</summary>
 
-- [roadmap](./leetcode20days/leetcode刷题路线v2.0.xlsx)
-- [day001_basics](./leetcode20days/day001_basics.ipynb)
-- [day002_acm_formats](./leetcode20days/day002_acm_formats.ipynb), [day002_inputoutput](./leetcode20days/day002_inputoutput.py)
-- [day003_doublepointers](./leetcode20days/day003_doublepointers.ipynb) 双指针——左右碰撞指针
-- [day004_doublepointers](./leetcode20days/day004_doublepointers.ipynb) 双指针——分离指针
-- [day005_doublepointers](./leetcode20days/day005_doublepointers.ipynb) 双指针——快慢指针
-- [day006_hashmap](./leetcode20days/day006_hashmap.ipynb) 哈希表
-- [day007_slidingwindow](./leetcode20days/day007_slidingwindow.ipynb) 滑动窗口
-- [day008_binarysearch](./leetcode20days/day008_binarysearch.ipynb) 二分查找
-- [day009_presum](./leetcode20days/day009_presum.ipynb) 前缀和
-- [day010_greedy](./leetcode20days/day010_greedy.ipynb) 贪心
-- [day011_stack&queue](./leetcode20days/day011_stack&queue.ipynb) 栈和队列
-- [day012_listnode](./leetcode20days/day012_listnode.ipynb) 链表
-- [day013_binarytree](./leetcode20days/day013_binarytree.ipynb) 二叉树遍历
-- [day014_binarytreeAdvanced](./leetcode20days/day014_binarytreeAdvanced.ipynb) 二叉树进阶
+- [x] [roadmap](./leetcode20days/leetcode刷题路线v2.0.xlsx)
+- [x] [day001_basics](./leetcode20days/day001_basics.ipynb)
+- [x] [day002_acm_formats](./leetcode20days/day002_acm_formats.ipynb), [day002_inputoutput](./leetcode20days/day002_inputoutput.py)
+- [x] [day003_doublepointers](./leetcode20days/day003_doublepointers.ipynb) 双指针——左右碰撞指针
+- [x] [day004_doublepointers](./leetcode20days/day004_doublepointers.ipynb) 双指针——分离指针
+- [x] [day005_doublepointers](./leetcode20days/day005_doublepointers.ipynb) 双指针——快慢指针
+- [x] [day006_hashmap](./leetcode20days/day006_hashmap.ipynb) 哈希表
+- [x] [day007_slidingwindow](./leetcode20days/day007_slidingwindow.ipynb) 滑动窗口
+- [x] [day008_binarysearch](./leetcode20days/day008_binarysearch.ipynb) 二分查找
+- [x] [day009_presum](./leetcode20days/day009_presum.ipynb) 前缀和
+- [x] [day010_greedy](./leetcode20days/day010_greedy.ipynb) 贪心
+- [x] [day011_stack&queue](./leetcode20days/day011_stack&queue.ipynb) 栈和队列
+- [x] [day012_listnode](./leetcode20days/day012_listnode.ipynb) 链表
+- [x] [day013_binarytree](./leetcode20days/day013_binarytree.ipynb) 二叉树遍历
+- [x] [day014_binarytreeAdvanced](./leetcode20days/day014_binarytreeAdvanced.ipynb) 二叉树进阶
+- [x] [day015_recursion](./leetcode20days/day015_recursion.ipynb) 递归
+- [x] [day016_backtracking](./leetcode20days/day016_backtracking.ipynb) 回溯
+- [x] [day017_dfs](./leetcode20days/day017_dfs.ipynb) 深度优先搜索
+- [x] [day018_bfs](./leetcode20days/day018_bfs.ipynb) 广度优先搜索
+- [ ] [day019_topologicalsort](./leetcode20days/day019_topologicalsort.ipynb) 拓扑排序
+- [ ] [day020_unionfind](./leetcode20days/day020_unionfind.ipynb) 并查集
+- [ ] [day021_dynamicprogramming_1d](./leetcode20days/day021_dynamicprogramming_1d.ipynb) 一维动态规划
+- [ ] [day022_dynamicprogramming_2d](./leetcode20days/day022_dynamicprogramming_2d.ipynb) 二维动态规划
+- [ ] [day023_knapsack](./leetcode20days/day023_knapsack.ipynb) 背包问题
+- [ ] [day024_segmenttree](./leetcode20days/day024_segmenttree.ipynb) 线段树
+- [ ] [day025_binaryindexedtree](./leetcode20days/day025_binaryindexedtree.ipynb) 树状数组
+- [ ] [day026_trie](./leetcode20days/day026_trie.ipynb) 字典树
+- [ ] [day027_bitmask](./leetcode20days/day027_bitmask.ipynb) 位运算
 
 </details>
