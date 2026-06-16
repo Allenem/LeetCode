@@ -729,7 +729,7 @@ https://www.deep-ml.com/
 - [x] [day018_bfs](./leetcode20days/day018_bfs.ipynb) 广度优先搜索
 - [x] [day019_topologicalsort](./leetcode20days/day019_topologicalsort.ipynb) 拓扑排序
 - [x] [day020_dynamicprogramming_1d](./leetcode20days/day020_dynamicprogramming_1d.ipynb) 一维动态规划
-- [ ] [day021_dynamicprogramming_2d](./leetcode20days/day021_dynamicprogramming_2d.ipynb) 二维动态规划
+- [x] [day021_dynamicprogramming_2d](./leetcode20days/day021_dynamicprogramming_2d.ipynb) 二维动态规划
 - [ ] [day022_knapsack](./leetcode20days/day022_knapsack.ipynb) 背包问题
 - [ ] [day023_unionfind](./leetcode20days/day023_unionfind.ipynb) 并查集
 - [ ] [day024_segmenttree](./leetcode20days/day024_segmenttree.ipynb) 线段树
