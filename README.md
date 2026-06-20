@@ -725,6 +725,7 @@ https://www.deep-ml.com/
 - [x] [day014_binarytreeAdvanced](./leetcode20days/day014_binarytreeAdvanced.ipynb) 二叉树进阶
 - [x] [day015_recursion](./leetcode20days/day015_recursion.ipynb) 递归
 - [x] [day016_backtracking](./leetcode20days/day016_backtracking.ipynb) 回溯
+- [x] [day016_backtracking2](./leetcode20days/day016_backtracking2.ipynb) 回溯
 - [x] [day017_dfs](./leetcode20days/day017_dfs.ipynb) 深度优先搜索
 - [x] [day018_bfs](./leetcode20days/day018_bfs.ipynb) 广度优先搜索
 - [x] [day019_topologicalsort](./leetcode20days/day019_topologicalsort.ipynb) 拓扑排序
