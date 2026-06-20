@@ -732,7 +732,7 @@ https://www.deep-ml.com/
 - [x] [day020_dynamicprogramming_1d](./leetcode20days/day020_dynamicprogramming_1d.ipynb) 一维动态规划
 - [x] [day021_dynamicprogramming_2d](./leetcode20days/day021_dynamicprogramming_2d.ipynb) 二维动态规划
 - [x] [day022_knapsack](./leetcode20days/day022_knapsack.ipynb) 背包问题
-- [ ] [day023_unionfind](./leetcode20days/day023_unionfind.ipynb) 并查集
+- [x] [day023_unionfind](./leetcode20days/day023_unionfind.ipynb) 并查集
 - [ ] [day024_segmenttree](./leetcode20days/day024_segmenttree.ipynb) 线段树
 - [ ] [day025_binaryindexedtree](./leetcode20days/day025_binaryindexedtree.ipynb) 树状数组
 - [ ] [day026_trie](./leetcode20days/day026_trie.ipynb) 字典树
